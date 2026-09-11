@@ -64,6 +64,17 @@ The model is evaluated using:
 The Random Forest model achieved a test R² score of approximately **0.94**, indicating strong predictive performance on the test dataset.
 
 Feature importance analysis showed that **engine size (`enginesize`)** and **curb weight (`curbweight`)** were among the most influential features used by the model.
+### Price Distribution
+
+![Price Distribution](images/price_distribution.png)
+
+### Actual vs Predicted Prices
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 
 ## Technologies Used
 
